@@ -1,0 +1,15 @@
+Index: src/App.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/App.vue	(revision 67b8f4a47e36f0f15b38e19ef7c733e5a67574e4)
++++ src/App.vue	(date 1610455346380)
+@@ -1,6 +1,6 @@
+ <template>
+   <div id="app">
+-      <h2>预祝0713java全体学生前程似锦</h2>
++      <h2>预祝0713java全体学生前程似锦1</h2>
+       <h2>预祝0713java全体学生统统月薪过万</h2>
+       <h2>预祝0713java全体学生统统月薪过两万</h2>
+       <h2>预祝0713java全体学生统统月薪过三万</h2>
