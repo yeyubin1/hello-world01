@@ -1,8 +1,9 @@
 <template>
   <div id="app">
-      <h2>预祝0713java全体学生前程似锦1</h2>
+
       <h2>叶喻斌是大帅哥</h2>
-   <img src="http://img12.360buyimg.com/n1/s450x450_jfs/t1/142295/6/19866/63874/5fe4408eE401889c8/8f5c2b37676a2264.jpg"/>
+      <h2>芦启豪是大笨蛋</h2>
+   <img src="https://gmall-admin-file.oss-cn-shanghai.aliyuncs.com/2020-12-15/IMG_3080.JPG"/>
   </div>
 </template>
 
